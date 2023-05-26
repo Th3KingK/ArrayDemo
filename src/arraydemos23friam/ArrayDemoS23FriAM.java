@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 
 public class ArrayDemoS23FriAM {
+    //Friday 26 May 2023
 
     public static void main(String[] args) {
        System.out.println("Enter a word");
