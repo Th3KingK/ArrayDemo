@@ -9,6 +9,7 @@ public class Student {
     private String address;
     
    //comment for fetch and merge
+   //comment for pull
     
     public Student(String sId, String sName) {
         this.sId = sId;
