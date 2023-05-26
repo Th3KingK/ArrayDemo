@@ -7,7 +7,7 @@ public class Student {
     private String sId;
     private String sName;
     private String address;
-    //comment added for modification
+    
    //comment for fetch and merge
     
     public Student(String sId, String sName) {
